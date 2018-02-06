@@ -13,13 +13,26 @@ Por último se pide a los alumnos que creen su propia "branch" y que pongan en e
 
 LISTA DE ALUMNOS:
 
+<<<<<<< HEAD
 Armando Ferro Vázquez
 <<<<<<< HEAD
 Mikel Asier Minchero
 =======
+=======
+Guillermo Ozaita
+Armando Ferro Vázquez 
+>>>>>>> 06a3be9aadb47056e70e7427a263a3740de4f2b1
 Donetz Errasti
 Mireia Castrillo
 .......
 Javier de Martín Gil
 Adrián Vázquez
+<<<<<<< HEAD
 >>>>>>> 7011a1736a5fd0b7ee3919ac69c4459516d5f999
+=======
+Alex Nuñez
+Andreea Stanciu
+Ane Sanz Rekalde
+Markel Orallo Nogueira
+Daniel Mendinueta Martinez
+>>>>>>> 06a3be9aadb47056e70e7427a263a3740de4f2b1
